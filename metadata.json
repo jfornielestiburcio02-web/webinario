@@ -1,0 +1,6 @@
+{
+  "name": "Previsualizador 3Cat",
+  "description": "Previsualización interactiva y adaptable del portal audiovisual HTML de 3Cat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
